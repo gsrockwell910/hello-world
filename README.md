@@ -1,2 +1,2 @@
 # hello-world
-This repos was created will store ideas, or resources.
+This repos was created to store ideas, or resources.
